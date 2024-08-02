@@ -1,6 +1,9 @@
 # Political-Comment-Emotional-Analysis
-A personal project expanding on a [prior academic project](https://github.com/hlee107/EmoConsistency-PoliticalPolarization) at the University of Washington. The starting point is found in `DataCollection.ipynb`, a file containing code to iterate through various YouTube channels and collect comments.
+A personal project expanding on a [prior academic project](https://github.com/hlee107/EmoConsistency-PoliticalPolarization) at the University of Washington. 
 
+*File Overview*
+- `DataCollection.ipynb`: Original starting code from prior work to iterate various YouTube channels and collect comments
+  
 ## Research Question
 **Are indivudals engaging in balanced discussions on national current events? Or are the majority of political discourse simply just a mob mentality-emphasized echo chamber?**
 
